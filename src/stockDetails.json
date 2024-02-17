@@ -1,0 +1,546 @@
+{
+  "microsoft": {
+    "ticker": "MSFT",
+    "key-params": {
+      "p/b": "12.6",
+      "roe": "39.17",
+      "p/e": "36.4",
+      "ttm": "3.00"
+    },
+    "market-data": {
+      "val": "404.06",
+      "change": "-0.61",
+      "open": "407.96",
+      "high": "408.26",
+      "low": "403.44",
+      "prev": "406.56"
+    }
+  },
+  "apple": {
+    "ticker": "AAPL",
+    "key-params": {
+      "p/b": "38.0",
+      "roe": "160.80",
+      "p/e": "27.9",
+      "ttm": "6.16"
+    },
+    "market-data": {
+      "val": "182.31",
+      "change": "-0.84",
+      "open": "183.42",
+      "high": "184.85",
+      "low": "181.66",
+      "prev": "183.86"
+    }
+  },
+  "alphabet-classc": {
+    "ticker": "GOOG",
+    "key-params": {
+      "p/b": "6.2",
+      "roe": "27.36",
+      "p/e": "25.37",
+      "ttm": "28.85"
+    },
+    "market-data": {
+      "val": "141.76",
+      "change": "-1.51",
+      "open": "144.21",
+      "high": "144.48",
+      "low": "141.52",
+      "prev": "143.94"
+    }
+  },
+  "nvidia": {
+    "ticker": "NVDA",
+    "key-params": {
+      "p/b": "53.9",
+      "roe": "69.17",
+      "p/e": "95.0",
+      "ttm": "3.75"
+    },
+    "market-data": {
+      "val": "726.13",
+      "change": "-0.06",
+      "open": "741.0",
+      "high": "744.02",
+      "low": "725.01",
+      "prev": "726.58"
+    }
+  },
+  "alphabet-classa": {
+    "ticker": "GOOGL",
+    "key-params": {
+      "p/b": "6.2",
+      "roe": "27.36",
+      "p/e": "23.7",
+      "ttm": "1.56"
+    },
+    "market-data": {
+      "val": "140.52",
+      "change": "-1.58",
+      "open": "142.99",
+      "high": "143.1",
+      "low": "140.4",
+      "prev": "142.77"
+    }
+  },
+  "amazon": {
+    "ticker": "AMZN",
+    "key-params": {
+      "p/b": "8.7",
+      "roe": "17.49",
+      "p/e": "57.9",
+      "ttm": "0.96"
+    },
+    "market-data": {
+      "val": "169.51",
+      "change": "-0.17",
+      "open": "168.74",
+      "high": "170.42",
+      "low": "167.17",
+      "prev": "169.80"
+    }
+  },
+  "meta": {
+    "ticker": "META",
+    "key-params": {
+      "p/b": "7.9",
+      "roe": "28.04",
+      "p/e": "30.9",
+      "ttm": "4.50"
+    },
+    "market-data": {
+      "val": "473.32",
+      "change": "-2.21",
+      "open": "478.11",
+      "high": "478.96",
+      "low": "469.21",
+      "prev": "484.03"
+    }
+  },
+  "bershire-hldb": {
+    "ticker": "BRK.B",
+    "key-params": {
+      "p/b": "1.7",
+      "roe": "0",
+      "p/e": "11.5",
+      "ttm": "-5.80"
+    },
+    "market-data": {
+      "val": "405.9",
+      "change": "0.69",
+      "open": "404.44",
+      "high": "406.74",
+      "low": "402.59",
+      "prev": "403.45"
+    }
+  },
+  "bershire-hldA": {
+    "ticker": "BRK.A",
+    "key-params": {
+      "p/b": "0",
+      "roe": "0",
+      "p/e": "0",
+      "ttm": "0"
+    },
+    "market-data": {
+      "val": "610086",
+      "change": "0.74",
+      "open": "607982.53",
+      "high": "612395.0",
+      "low": "605721.02",
+      "prev": "606999.90"
+    }
+  },
+  "eli-lilly": {
+    "ticker": "LLY",
+    "key-params": {
+      "p/b": "66.2",
+      "roe": "47.46",
+      "p/e": "148.8",
+      "ttm": "-0.06"
+    },
+    "market-data": {
+      "val": "782.06",
+      "change": "3.20",
+      "open": "771.03",
+      "high": "794.47",
+      "low": "763.57",
+      "prev": "757.78"
+    }
+  },
+  "thaiwan-semiconductor": {
+    "ticker": "TSM",
+    "key-params": {
+      "p/b": "6.4",
+      "roe": "26.0",
+      "p/e": "24.12",
+      "ttm": "40.7"
+    },
+    "market-data": {
+      "val": "126.69",
+      "change": "-1.81",
+      "open": "127.13",
+      "high": "128.64",
+      "low": "125.81",
+      "prev": "129.03"
+    }
+  },
+  "tesla": {
+    "ticker": "TSLA",
+    "key-params": {
+      "p/b": "10.2",
+      "roe": "21.8",
+      "p/e": "42.5",
+      "ttm": "3.41"
+    },
+    "market-data": {
+      "val": "199.95",
+      "change": "-0.25",
+      "open": "202.06",
+      "high": "202.17",
+      "low": "197.40",
+      "prev": "200.45"
+    }
+  },
+  "broadcom": {
+    "ticker": "AVGO",
+    "key-params": {
+      "p/b": "24.3",
+      "roe": "60.31",
+      "p/e": "41.4",
+      "ttm": "8.0"
+    },
+    "market-data": {
+      "val": "1245.48",
+      "change": "-1.55",
+      "open": "1259.04",
+      "high": "1275.68",
+      "low": "1242.39",
+      "prev": "1265.07"
+    }
+  },
+  "visa": {
+    "ticker": "V",
+    "key-params": {
+      "p/b": "14.2",
+      "roe": "46.92",
+      "p/e": "31.3",
+      "ttm": "2.26"
+    },
+    "market-data": {
+      "val": "278.76",
+      "change": "-0.86",
+      "open": "280.96",
+      "high": "281.12",
+      "low": "277.87",
+      "prev": "280.98"
+    }
+  },
+  "novo-nordisk": {
+    "ticker": "NVO",
+    "key-params": {
+      "p/b": "36.1",
+      "roe": "88.07",
+      "p/e": "45.9",
+      "ttm": "5.02"
+    },
+    "market-data": {
+      "val": "124.01",
+      "change": "1.86",
+      "open": "121.84",
+      "high": "124.64",
+      "low": "121.54",
+      "prev": "121.55"
+    }
+  },
+  "j-p-morgan": {
+    "ticker": "JPM",
+    "key-params": {
+      "p/b": "1.6",
+      "roe": "16.20",
+      "p/e": "10.5",
+      "ttm": "16.77"
+    },
+    "market-data": {
+      "val": "179.03",
+      "change": "-0.42",
+      "open": "179.61",
+      "high": "179.90",
+      "low": "178.16",
+      "prev": "179.87"
+    }
+  },
+  "alerian": {
+    "ticker": "AMLP",
+    "key-params": {
+      "p/b": "1.6",
+      "roe": "16.20",
+      "p/e": "10.5",
+      "ttm": "16.77"
+    },
+    "market-data": {
+      "val": "44.91",
+      "change": "0.99",
+      "open": "44.32",
+      "high": "45.09",
+      "low": "44.25",
+      "prev": "44.27"
+    }
+  },
+  "united-health-group": {
+    "ticker": "UNH",
+    "key-params": {
+      "p/b": "5.7",
+      "roe": "26.6",
+      "p/e": "22.2",
+      "ttm": "23.31"
+    },
+    "market-data": {
+      "val": "521.5",
+      "change": "0.13",
+      "open": "522.3",
+      "high": "523.79",
+      "low": "518.89",
+      "prev": "520.88"
+    }
+  },
+  "snp": {
+    "ticker": "SPY",
+    "key-params": {
+      "p/b": "1.6",
+      "roe": "16.20",
+      "p/e": "10.5",
+      "ttm": "16.77"
+    },
+    "market-data": {
+      "val": "499.51",
+      "change": "-0.35",
+      "open": "501.70",
+      "high": "502.87",
+      "low": "498.75",
+      "prev": "502.01"
+    }
+  },
+  "wallmart": {
+    "ticker": "WMT",
+    "key-params": {
+      "p/b": "5.8",
+      "roe": "21.20",
+      "p/e": "28.2",
+      "ttm": "6.3"
+    },
+    "market-data": {
+      "val": "170.36",
+      "change": "0.63",
+      "open": "170.29",
+      "high": "171.93",
+      "low": "169.29",
+      "prev": "169.29"
+    }
+  },
+  "mastercard": {
+    "ticker": "MA",
+    "key-params": {
+      "p/b": "63.0",
+      "roe": "167.14",
+      "p/e": "39.0",
+      "ttm": "3.4"
+    },
+    "market-data": {
+      "val": "468.13",
+      "change": "-0.67",
+      "open": "474.17",
+      "high": "474.17",
+      "low": "467.06",
+      "prev": "471.28"
+    }
+  },
+  "exson": {
+    "ticker": "XOM",
+    "key-params": {
+      "p/b": "2.1",
+      "roe": "20.80",
+      "p/e": "10",
+      "ttm": "10.07"
+    },
+    "market-data": {
+      "val": "103.73",
+      "change": "0.34",
+      "open": "104.01",
+      "high": "104.63",
+      "low": "103.52",
+      "prev": "103.73"
+    }
+  },
+  "johnson-n-johnson": {
+    "ticker": "JNJ",
+    "key-params": {
+      "p/b": "5.3",
+      "roe": "47.1",
+      "p/e": "10.9",
+      "ttm": "13.61"
+    },
+    "market-data": {
+      "val": "156.55",
+      "change": "-0.11",
+      "open": "156.60",
+      "high": "157.25",
+      "low": "155.67",
+      "prev": "156.73"
+    }
+  },
+  "vangaurd": {
+    "ticker": "VTI",
+    "key-params": {
+      "p/b": "0",
+      "roe": "0",
+      "p/e": "0",
+      "ttm": "0"
+    },
+    "market-data": {
+      "val": "248.46",
+      "change": "-0.49",
+      "open": "249.61",
+      "high": "250.22",
+      "low": "248.10",
+      "prev": "249.77"
+    }
+  },
+  "asml": {
+    "ticker": "",
+    "key-params": {
+      "p/b": "25.3",
+      "roe": "70.42",
+      "p/e": "43.4",
+      "ttm": "4.81"
+    },
+    "market-data": {
+      "val": "928.94",
+      "change": "-0.10",
+      "open": "932.73",
+      "high": "948.51",
+      "low": "925.73",
+      "prev": "929.84"
+    }
+  },
+  "p-n-g": {
+    "ticker": "PG",
+    "key-params": {
+      "p/b": "7.6",
+      "roe": "31.78",
+      "p/e": "25.1",
+      "ttm": "1.89"
+    },
+    "market-data": {
+      "val": "157.51",
+      "change": "0.32",
+      "open": "157.04",
+      "high": "158.45",
+      "low": "156.67",
+      "prev": "157.01"
+    }
+  },
+  "home-depot": {
+    "ticker": "HD",
+    "key-params": {
+      "p/b": "252.2",
+      "roe": "11.51",
+      "p/e": "23.0",
+      "ttm": "3.83"
+    },
+    "market-data": {
+      "val": "362.35",
+      "change": "0.35",
+      "open": "360.68",
+      "high": "363.99",
+      "low": "359.15",
+      "prev": "361.08"
+    }
+  },
+  "costco": {
+    "ticker": "COST",
+    "key-params": {
+      "p/b": "12.3",
+      "roe": "27.37",
+      "p/e": "49.3",
+      "ttm": "4.87"
+    },
+    "market-data": {
+      "val": "723.99",
+      "change": "-0.07",
+      "open": "721.99",
+      "high": "729.06",
+      "low": "718.90",
+      "prev": "724.59"
+    }
+  },
+  "merck": {
+    "ticker": "MRK",
+    "key-params": {
+      "p/b": "7.9",
+      "roe": "0.86",
+      "p/e": "70.3",
+      "ttm": "1.87"
+    },
+    "market-data": {
+      "val": "127.79",
+      "change": "0.99",
+      "open": "126.50",
+      "high": "128.09",
+      "low": "126.17",
+      "prev": "126.54"
+    }
+  },
+  "abbvie": {
+    "ticker": "ABBV",
+    "key-params": {
+      "p/b": "28.9",
+      "roe": "33.13",
+      "p/e": "48.10",
+      "ttm": "1.0"
+    },
+    "market-data": {
+      "val": "177.49",
+      "change": "0.51",
+      "open": "176.81",
+      "high": "178.92",
+      "low": "176.07",
+      "prev": "176.59"
+    }
+  },
+  "oracle": {
+    "ticker": "ORCL",
+    "key-params": {
+      "p/b": "79.1",
+      "roe": "33.6",
+      "p/e": "31.15",
+      "ttm": "3.46"
+    },
+    "market-data": {
+      "val": "111.31",
+      "change": "-1.3",
+      "open": "113.02",
+      "high": "113.11",
+      "low": "111.25",
+      "prev": "112.78"
+    }
+  },
+  "toyota": {
+    "ticker": "TM",
+    "key-params": {
+      "p/b": "1.4",
+      "roe": "14.72",
+      "p/e": "10.0",
+      "ttm": "945.20"
+    },
+    "market-data": {
+      "val": "227.36",
+      "change": "-0.02",
+      "open": "227.83",
+      "high": "228.54",
+      "low": "226.63",
+      "prev": "228.55"
+    }
+  }
+}
