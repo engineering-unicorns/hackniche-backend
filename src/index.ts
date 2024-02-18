@@ -44,7 +44,7 @@ app.get("/stockDetails", async (c) => {
   return c.json(JSON.parse(data.toString()));
 });
 
-const port = 3000;
+const port = parseInt(process.env.PORT!) || 3000;
 console.log(`Server is running on port ${port}`);
 
 serve({

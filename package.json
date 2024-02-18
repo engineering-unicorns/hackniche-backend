@@ -1,10 +1,16 @@
 {
   "scripts": {
-    "dev": "tsx watch src/index.ts"
+    "dev": "tsx watch src/index.ts",
+    "build": "rimraf dist && tsc",
+    "ts.check": "tsc --project tsconfig.json",
+    "add-build": "git add dist"
   },
   "dependencies": {
     "@hono/node-server": "^1.8.0",
     "hono": "^4.0.4",
+    "pre-commit": "^1.2.2",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3",
     "undici": "^6.6.2"
   },
   "devDependencies": {
